@@ -11,8 +11,7 @@ In my solution I used Multithreading in C with semaphores.
 I also created a checking program in Python to verify that no 2 adjacent philosophers are 
 EATING at the same time.
 
-For the test video I ran with the number of threads [# of philosophers] at 5
-and number of iterations at 9000. 
+
 
 Note:
 When running the Python script indicating the number of philosophers is necessary for the correct result.
@@ -21,4 +20,9 @@ When running the Python script indicating the number of philosophers is necessar
 
 
 
-[(<img src="/Images/dining_phil_vid.PNG"></img>)](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
+[For the test video I ran with the number of threads [# of philosophers] at 5
+and number of iterations at 50. <img src="/Images/dining_phil_vid.PNG"></img>](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
+
+
+[For the test video I ran with the number of threads [# of philosophers] at 5
+and number of iterations at 9000. <img src="/Images/dining_phil_vid.PNG"></img>](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
