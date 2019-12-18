@@ -1,6 +1,8 @@
 # Dining Philosopher Problem
 Dining Philosopher Problem (Semaphore and Multithreading)
 
-<img src="/Images/chopstick_1.PNG"></img>
+The problem states that there are 5 philosphers 
+
+<img src="/Images/dining_phil.PNG"></img>
 <img src="/Images/chopstick_2.PNG"></img>
 <img src="/Images/chopstick_3.PNG"></img>
