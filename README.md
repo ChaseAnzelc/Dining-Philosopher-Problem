@@ -18,5 +18,5 @@ Note:
 When running the Python script indicating the number of philosophers is necessary for the correct result.
 
 <img src="/Images/dining_phil.png"></img>
-<img src="/Images/chopstick_2.PNG"></img>
+<img src="/Video/dining_phil_ex1.mp4"></img>
 <img src="/Images/chopstick_3.PNG"></img>
