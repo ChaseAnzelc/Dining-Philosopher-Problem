@@ -19,9 +19,6 @@ When running the Python script indicating the number of philosophers is necessar
 
 <img src="/Images/dining_phil.png"></img>
 
-<iframe src="https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E"
-width="640" height="480" allowfullscreen></iframe>
-
 
 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
