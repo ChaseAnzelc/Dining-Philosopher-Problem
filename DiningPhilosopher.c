@@ -9,12 +9,9 @@ typedef struct{
 } param_structure;
 
 #define THREAD_NUM 5
-#define MAX_ITERATION 9000
+#define MAX_ITERATION 50
+
 sem_t chopsticks[THREAD_NUM];
-// Need to use the following functions in the right place with the right parameters
-// sem_init() 
-// sem_wait()
-// sem_post()
 
 void *philosopher(void *param)
 {
@@ -47,6 +44,47 @@ void *philosopher(void *param)
 
 
 		printf("Philosopher %d: picked up my second chopstick\n",phID);	
+
+		usleep(1);
+
+		printf("Philosopher %d: EATING\n",phID);
+
+		sem_post(&chopsticks[(phID+1)%THREAD_NUM]);
+		sem_post(&chopsticks[phID]);
+		
+	}
+	printf("Philosopher %d: Done RUNNING thinking\n",phID);	
+        pthread_exit(0);
+}
+
+int main()
+{
+	int i;
+        pthread_t tid[THREAD_NUM]; /* the thread identifier */
+        param_structure params[THREAD_NUM]; 
+        pthread_attr_t attr; /* set of attributes for the thread */
+
+
+        /* get the default attributes */
+        pthread_attr_init(&attr);
+
+	
+	for(i=0;i<THREAD_NUM;i++){				
+		sem_init(&chopsticks[i],0,1); }
+
+
+        /* create the thread */
+        for (i=0;i<THREAD_NUM;i++){
+		params[i].ID = i;
+        	pthread_create(&tid[i],&attr,philosopher,(void *)&params[i]);
+	}
+
+        /* now wait for the thread to exit */
+        for (i=0;i<THREAD_NUM;i++)
+                pthread_join(tid[i],NULL);
+
+	printf("Parent Done\n");
+}
 
 		usleep(1);
 
