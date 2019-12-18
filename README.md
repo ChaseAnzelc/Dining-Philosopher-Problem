@@ -15,7 +15,7 @@ For the test video I ran with the number of threads [# of philosophers] at 5
 and number of iterations at 9000. 
 
 Note:
-When running the Python script indicating the number of philosopher is necessary for the correct result.
+When running the Python script indicating the number of philosophers is necessary for the correct result.
 
 <img src="/Images/dining_phil.png"></img>
 <img src="/Images/chopstick_2.PNG"></img>
