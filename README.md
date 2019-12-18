@@ -19,7 +19,7 @@ When running the Python script indicating the number of philosophers is necessar
 
 <img src="/Images/dining_phil.png"></img>
 <video width="320" height="240" controls>
-  <source src="/Video/dining_phil_ex1.mp4" type="video/mp4">
+  <source src="https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E" type="video/mp4">
 </video>
 <img src="/Video/dining_phil_ex1.mp4"></img>
 <img src="/Images/chopstick_3.PNG"></img>
