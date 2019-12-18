@@ -21,12 +21,4 @@ When running the Python script indicating the number of philosophers is necessar
 
 
 
-[(<img src="/Images/dining_phil_video.PNG"></img>)](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
-
-
-
-<video width="320" height="240" controls>
-  <source src="https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E" type="video/mp4">
-</video>
-
-<img src="/Images/chopstick_3.PNG"></img>
+[(<img src="/Images/dining_phil_vid.PNG"></img>)](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
