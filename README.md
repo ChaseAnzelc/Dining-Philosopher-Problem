@@ -21,7 +21,7 @@ When running the Python script indicating the number of philosophers is necessar
 
 
 
-[![Watch the video](<img src="/Images/dining_phil_video.PNG"></img>)](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
+[(<img src="/Images/dining_phil_video.PNG"></img>)](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
 
 
 
