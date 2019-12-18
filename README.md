@@ -18,6 +18,13 @@ Note:
 When running the Python script indicating the number of philosophers is necessary for the correct result.
 
 <img src="/Images/dining_phil.png"></img>
+
+
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
+
+
+
 <video width="320" height="240" controls>
   <source src="https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E" type="video/mp4">
 </video>
