@@ -23,4 +23,4 @@ For this test video I ran with the number of threads [# of philosophers] at 5 an
 [<img src="/Images/dining_phil_vid.PNG"></img>](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
 
 For the test video I ran with the number of threads [# of philosophers] at 5 and number of iterations at 9000. 
-[<img src="/Images/dining_phil_vid.PNG"></img>](https://drive.google.com/open?id=1uP293kCbHgWahYEtaQsTWEm0xdZpCH_E)
+[<img src="/Images/dining_phil_vid.PNG"></img>](https://drive.google.com/open?id=1dsveiNZWrVs7J4_WzXyOPGAMzD7HBMIf)
