@@ -1,6 +1,11 @@
 # Dining Philosopher Problem
 Dining Philosopher Problem (Semaphore and Multithreading)
 
+What I used...<br/>
+[C][PYTHON]<br/>
+
+
+
 The Dining Philosopher Problem states that K philosophers seated around a circular 
 table with one chopstick between each pair of philosophers. 
 There is one chopstick between each philosopher. 
